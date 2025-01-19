@@ -1,0 +1,9 @@
+David Pastor-Escuredo, Benoît Lombardot, Thierry Savy, Adeline Boyreau, René Doursata, Jose M. Goicolea, Andrés Santos, Paul Bourgine, Juan C. del Álamo, María J. Ledesma-Carbayo, Nadine Peyriéras,
+Unsupervised spatio-temporal classification of deformation patterns of embryonic tissues matches their fate map,
+iScience,
+2025,
+111753,
+ISSN 2589-0042,
+https://doi.org/10.1016/j.isci.2025.111753.
+(https://www.sciencedirect.com/science/article/pii/S2589004225000124)
+Abstract: During morphogenesis, embryonic tissues display fluid-like behavior with fluctuating strain rates. Digital cell lineages reconstructed from 4D images of developing zebrafish embryos are used to infer representative tissue deformation patterns and their association with developmental events. Finite-deformation analysis along cell trajectories and unsupervised machine learning are applied to obtain reduced-order models condensing the collective cell motions, delineating tissue domains with distinct 4D biomechanical behavior. This reduced-order kinematic description is reproducible across specimens and matches fate maps of the zebrafish brain in wild-type and Nodal pathway mutants (zoeptz57/tz57), shedding light into the morphogenetic defects causing these mutants' cyclopia. Furthermore, the inferred kinematic maps also match expression maps of the gene transcription factor goosecoid (gsc). In summary, this work introduces an objective analytical framework to systematically unravel the complex spatio-temporal patterns of embryonic tissue deformations and couple them with cell fate and gene expression maps.
